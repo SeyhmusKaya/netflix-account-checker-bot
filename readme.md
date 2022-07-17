@@ -1,0 +1,1 @@
+The program works flawlessly. If you want it to control more than 20 accounts per minute, enter the number of threads that will be opened in the codes.

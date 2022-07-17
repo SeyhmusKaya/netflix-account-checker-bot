@@ -1,0 +1,14 @@
+C:\Users\şeyh\source\repos\NetflixChecker\NetflixChecker\obj\Debug\NetflixChecker.csproj.AssemblyReference.cache
+C:\Users\şeyh\source\repos\NetflixChecker\NetflixChecker\obj\Debug\NetflixChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\şeyh\source\repos\NetflixChecker\NetflixChecker\obj\Debug\NetflixChecker.Form1.resources
+C:\Users\şeyh\source\repos\NetflixChecker\NetflixChecker\obj\Debug\NetflixChecker.Properties.Resources.resources
+C:\Users\şeyh\source\repos\NetflixChecker\NetflixChecker\obj\Debug\NetflixChecker.csproj.GenerateResource.cache
+C:\Users\şeyh\source\repos\NetflixChecker\NetflixChecker\obj\Debug\NetflixChecker.csproj.CoreCompileInputs.cache
+C:\Users\şeyh\source\repos\NetflixChecker\NetflixChecker\bin\Debug\NetflixChecker.exe.config
+C:\Users\şeyh\source\repos\NetflixChecker\NetflixChecker\bin\Debug\NetflixChecker.exe
+C:\Users\şeyh\source\repos\NetflixChecker\NetflixChecker\bin\Debug\NetflixChecker.pdb
+C:\Users\şeyh\source\repos\NetflixChecker\NetflixChecker\bin\Debug\WebDriver.dll
+C:\Users\şeyh\source\repos\NetflixChecker\NetflixChecker\bin\Debug\WebDriver.Support.dll
+C:\Users\şeyh\source\repos\NetflixChecker\NetflixChecker\obj\Debug\NetflixChecker.csproj.CopyComplete
+C:\Users\şeyh\source\repos\NetflixChecker\NetflixChecker\obj\Debug\NetflixChecker.exe
+C:\Users\şeyh\source\repos\NetflixChecker\NetflixChecker\obj\Debug\NetflixChecker.pdb
